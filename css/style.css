@@ -1,0 +1,20 @@
+div{
+    display: flex;
+    justify-content: center;
+}
+
+
+table{
+    border: 1.2px solid black;
+    border-collapse: collapse;
+    font-size: 2rem;
+    font-family: Verdana;
+}
+
+tr{
+    background-color: #2aa5a573;
+}
+
+td{
+    border: 1.5px solid black;
+}
